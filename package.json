@@ -3,8 +3,8 @@
   "scripts": {
     "setup": "./script.sh"
   },
-  "description": "NPM Installer for Aeneas -- works with Ubuntu and OSX",
-  "version": "1.0.0",
+  "description": "Shell installer for Aeneas -- works with Ubuntu and OSX",
+  "version": "0.1.0",
   "main": "index.js",
   "repository": {
     "type": "git",
