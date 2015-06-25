@@ -2,7 +2,9 @@
 
 NPM Installer for Aeneas -- works with Ubuntu and OSX
 
-It's messy but works most of the time
+More about Aeneas from Readbeyond: https://github.com/readbeyond/aeneas/
+
+It's complicated getting Aeneas to install on OSX and Ubuntu. Here's a stab at packaging the install in a convenient NPM module. It's messy but works most of the time
 
 Simply
 
