@@ -8,7 +8,7 @@ Simply
 
 `npm install aeneas-install`
 
-Then 
+Then
 
 `npm run-script setup`
 
@@ -16,7 +16,7 @@ Note: This does a system-wide install of FFMPEG, Python etc. so expect several s
 
 With a successful installation, it should end the output with something like this:
 
-`
+```
 [INFO] Test 1/4...
 [INFO] Trying to import package aeneas...
 [INFO] Trying to import package aeneas... succeeded.
@@ -31,7 +31,7 @@ With a successful installation, it should end the output with something like thi
 [INFO] Trying to call espeak... succeeded.
 [INFO] Congratulations, all dependencies are met.
 [INFO] Enjoy running aeneas!
-`
+```
 
 
 
