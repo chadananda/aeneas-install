@@ -1,0 +1,27 @@
+{
+  "name": "aeneas-install",
+  "scripts": {
+    "setup": "./script.sh"
+  },
+  "description": "NPM Installer for Aeneas -- works with Ubuntu and OSX",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chadananda/aeneas-install.git"
+  },
+  "keywords": [
+    "aeneas",
+    "forced",
+    "alignment",
+    "audio",
+    "alignment",
+    "readbeyond"
+  ],
+  "author": "Chad Jones <chadananda@gmail.com> (http://bahai-education.org/)",
+  "license": "Apache",
+  "bugs": {
+    "url": "https://github.com/chadananda/aeneas-install/issues"
+  },
+  "homepage": "https://github.com/chadananda/aeneas-install#readme"
+}
