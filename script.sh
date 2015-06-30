@@ -13,7 +13,8 @@ case "$OSTYPE" in
   linux*)
    echo "UBUNTU"
    sudo apt-get install ruby-full curl git
-   sudo apt-get install build-essential m4 ruby texinfo libbz2-dev libcurl4-openssl-dev libexpat-dev libncurses-dev zlib1g-dev
+   sudo apt-get install build-essential m4 ruby texinfo libbz2-dev libcurl4-openssl-dev libexpat-dev libncurses-dev
+   sudo apt-get install libxml2-dev libxslt1-dev zlib1g-dev
    ;;
   *)        echo "unknown: $OSTYPE" ;;
 esac
